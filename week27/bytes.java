@@ -12,7 +12,7 @@ public class bytes {
 
     public static void main(String[] args) {
         byte[] b = {0x12, 0x34, 0x56, 0x78, (byte)0x9A, (byte)0xBC, (byte)0xDE, (byte)0xF0}; // 8-byte array
-        System.out.println(b[0]);
+        // System.out.println(b[0]);
         
         // DISPLAYING BYTES
         try {
